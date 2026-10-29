@@ -1,4 +1,22 @@
 # Programs:
 
+- kde modern clock - widget
 - youtube-tui
--
+- klassy - windows transparency
+- kvitals - live system stats on panel bar: CPU, RAM, GPU, Battery etc
+- kara - desktop/workspace pager applet
+- fuzzel - application manager
+- waybar - bar
+- htop
+- cmatrix
+- cbonsai
+
+
+# Ricing links:
+
+https://www.reddit.com/r/unixporn/comments/1omrwii/kde_plasma_first_rice_on_my_main_pc/
+https://www.reddit.com/r/unixporn/comments/1srpss0/kde_plasma_who_said_desktop_environments_cant_be/
+https://www.reddit.com/r/unixporn/comments/1tg82cr/kde_plasma_my_first_rice_monochrome/
+https://www.reddit.com/r/LinuxPorn/comments/1tmgr1r/kde_plasma_thats_my_third_attempt_at_ricing_ive/
+https://www.reddit.com/r/unixporn/comments/1usbued/kde_desktop/
+
